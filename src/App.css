@@ -1,0 +1,22 @@
+/* App.css */
+.App {
+  background-color: #004d00; /* Darker shade of green for the app background */
+  color: white; /* Ensures all text is white unless otherwise specified */
+  min-height: 100vh; /* Full view height */
+  padding: 1rem;
+}
+
+input[type="text"], textarea {
+  width: 100%; /* Makes text boxes full width */
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: white; /* White background for input fields */
+  color: black; /* Text color for inputs */
+}
+
+input[type="text"]:focus, textarea:focus {
+  outline: none;
+  border-color: #007bff;
+}
