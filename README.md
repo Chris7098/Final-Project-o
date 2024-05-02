@@ -1,4 +1,5 @@
 # Web Development Final Project - Champions League
+WEBSITE URL = https://6631a39161af49601507024c--championsleagued.netlify.app/ NETLIFY URL FOR WEBSITE = https://6631a39161af49601507024c--championsleagued.netlify.app/
 
 Submitted by: Christian Duron
 
